@@ -17,10 +17,6 @@ import com.example.ui.ProjectViewModel
 import com.example.ui.theme.MyApplicationTheme
 
 class MainActivity : ComponentActivity() {
-  override fun getAttributionTag(): String? {
-    return "default_attribution"
-  }
-
   override fun onCreate(savedInstanceState: Bundle?) {
     super.onCreate(savedInstanceState)
     enableEdgeToEdge()
