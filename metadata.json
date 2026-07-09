@@ -1,0 +1,6 @@
+{
+  "name": "PyDev Studio",
+  "description": "Một IDE lập trình mini tối ưu hóa cho điện thoại, hỗ trợ chạy script Python và thiết kế giao diện game trực quan tích hợp AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
